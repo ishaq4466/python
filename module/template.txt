@@ -1,0 +1,4 @@
+Hello Mr.{name}, thanks for ordering
+{item}..ur total bill is {amount}$.
+Best Regard,
+Team {team}

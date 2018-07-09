@@ -1,0 +1,118 @@
+(1)Hotel name:Ffiona’s Restaurant
+Address:51 Kensington Church StreetLondon W8 4BAUnited Kingdom
+Phone:020 7937 4152
+        
+(2)Hotel name:The Fat Bear
+Address:61 Carter LaneLondon EC4V 5DYUnited Kingdom
+Phone:020 7236 2498
+        
+(3)Hotel name:Dishoom
+Address:12 Upper Saint Martin's LaneLondon WC2H 9FBUnited Kingdom
+Phone:020 7420 9320
+        
+(4)Hotel name:Great Queen Street
+Address:32 Great Queen StreetLondon WC2B 5AAUnited Kingdom
+Phone:020 7242 0622
+        
+(5)Hotel name:Mother Mash
+Address:26 Ganton StreetLondon W1F 7QZUnited Kingdom
+Phone:020 7494 9644
+        
+(6)Hotel name:The Grazing Goat
+Address:6 New Quebec StreetLondon W1H 7RQUnited Kingdom
+Phone:020 7724 7243
+        
+(7)Hotel name:The Pig and Butcher
+Address:80 Liverpool RoadLondon N1 0QDUnited Kingdom
+Phone:020 7226 8304
+        
+(8)Hotel name:CASK Pub and Kitchen
+Address:6 Charlwood StreetLondon SW1V 2EEUnited Kingdom
+Phone:020 7630 7225
+        
+(9)Hotel name:Flat Iron
+Address:17 Beak StreetLondon W1F 9RWUnited Kingdom
+Phone:
+(10)Hotel name:Duck & Waffle
+Address:110 BishopsgateLondon EC2N 4AYUnited Kingdom
+Phone:020 3640 7310
+        
+(11)Hotel name:The Golden Chippy
+Address:62 Greenwich High RoadLondon SE10 8LFUnited Kingdom
+Phone:020 8692 4333
+        
+(12)Hotel name:The Mayfair Chippy
+Address:14 North Audley StreetLondon W1K 6WEUnited Kingdom
+Phone:020 7741 2233
+        
+(13)Hotel name:Burger & Lobster
+Address:29 Clarges StreetLondon W1J 7EFUnited Kingdom
+Phone:020 7409 1699
+        
+(14)Hotel name:Laughing Halibut
+Address:38 Strutton GroundLondon SW1P 2HRUnited Kingdom
+Phone:020 7799 2844
+        
+(15)Hotel name:Padella
+Address:6 Southwark StreetLondon SE1 1TQUnited Kingdom
+Phone:
+(16)Hotel name:Lanzhou Noodle Bar
+Address:33 Cranbourne StreetLondon WC2H 7ADUnited Kingdom
+Phone:020 7467 4546
+        
+(17)Hotel name:The Marquis of Westminster
+Address:50 Warwick WayLondon SW1V 1RYUnited Kingdom
+Phone:020 7828 1700
+        
+(18)Hotel name:Burger & Lobster
+Address:109 - 125 KnightsbridgeLondon SW1X 7RJUnited Kingdom
+Phone:020 7201 8676
+        
+(19)Hotel name:The Cow
+Address:89 Westbourne Park RoadLondon W2 5QHUnited Kingdom
+Phone:020 7221 0021
+        
+(20)Hotel name:The Queens Arms
+Address:11 Warwick WayLondon SW1V 1QTUnited Kingdom
+Phone:020 7834 3313
+        
+(21)Hotel name:Pieminister
+Address:56 Upper GroundLondon SE1 9PPUnited Kingdom
+Phone:020 7928 5755
+        
+(22)Hotel name:Roti King
+Address:40 Doric WayLondon NW1 1LHUnited Kingdom
+Phone:07966 093467
+        
+(23)Hotel name:Old Fountain
+Address:3 Baldwin StreetLondon EC1V 9NUUnited Kingdom
+Phone:020 7253 2970
+        
+(24)Hotel name:Ye Olde Cheshire Cheese
+Address:145 Fleet StreetLondon EC4A 2BUUnited Kingdom
+Phone:020 7353 6170
+        
+(25)Hotel name:The Queen’s Arms
+Address:30 Queen's Gate MewsLondon SW7 5QLUnited Kingdom
+Phone:020 7823 9293
+        
+(26)Hotel name:Albertini Restaurant
+Address:16-20 Chalton StreetLondon NW1 1JHUnited Kingdom
+Phone:020 7387 4723
+        
+(27)Hotel name:The Churchill Arms
+Address:119 Kensington Church StreetLondon W8 7LNUnited Kingdom
+Phone:020 7727 4242
+        
+(28)Hotel name:Bailey’s Fish and Chips
+Address:115 Dawes RoadLondon SW6 7EQUnited Kingdom
+Phone:020 7385 2021
+        
+(29)Hotel name:The Colonel Fawcett
+Address:1 Randolph StreetLondon NW1 0SSUnited Kingdom
+Phone:020 7267 9829
+        
+(30)Hotel name:The Greenwich Union
+Address:56 Royal HillLondon SE10 8RTUnited Kingdom
+Phone:020 8692 6258
+        

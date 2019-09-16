@@ -1,4 +1,4 @@
-#parsing of html using email.mime
+# parsing of html using email.mime
 
 from email.mime.text import MIMEText as Text
 from email.mime.multipart import MIMEMultipart

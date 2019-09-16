@@ -1,9 +1,7 @@
 # python notebook for my reference
 
-This Repo contains all python experiend and 
-
-### 
 ### Important funtions to remember:
+
 1. re.findall(r'\b[a-z]{3,15}\b', text_string) 
 
 *return all the words with the number of characters in the range [3-15]. 

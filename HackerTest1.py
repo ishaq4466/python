@@ -44,3 +44,6 @@ print(*range(1, int(input())+1), sep='') # Printing the numbers without any prin
 #     b = int(raw_input())
 
 
+# https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops
+
+# https://docs.python.org/3/reference/expressions.html#calls

@@ -63,6 +63,53 @@ def is_leap(year):
 
 
 
+# find the duplicate
+
+def removeDuplicate(arr):
+	print(arr)
+	final_list=[]
+	for x in arr:
+		if x not in final_list:
+			final_list.append(x)
+	print(final_list)
+	return final_list
+
+print(max(removeDuplicate([1,2,33,33,3])))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

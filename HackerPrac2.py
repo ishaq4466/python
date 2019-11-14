@@ -60,12 +60,16 @@ def get_second_highest_candidate(arr):
 
 # Problem 3: Get avegerage marks for a student
 
-def get_avg_marks(student_marks{},query_name):
+def get_avg_marks(student_marks,query_name):
 	# avg_marks
-	for name,marks in student_marks:
-		print(marks)
-
-get_avg_marks({"Krishna":[1.2,5.6,4.5]},"malika")
+	for key in student_marks.keys():
+		if key==query_name:
+			avg_marks=sum(student_marks[key])
+			print(avg_marks)
+	return avg_marks
+student_marks={"A":[45,5.6,85],"C":[45,5.6,85],"D":[4,56.4,85]}
+query_name="D"
+get_avg_marks(student_marks,query_name)
 
 
 

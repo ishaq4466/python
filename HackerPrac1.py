@@ -75,52 +75,7 @@ def removeDuplicate(arr):
 	return final_list
 
 print(max(removeDuplicate([1,2,33,33,3])))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# checkIfWeired(3)
+#checkIfWeired(3)
 # checkIsWeired(18)
 #calcUtil(3,2)
 # getNsqr(5)
@@ -134,8 +89,8 @@ print(max(removeDuplicate([1,2,33,33,3])))
 #     b = int(raw_input())
 
 
-# https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops
+	# https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops
 
-# https://docs.python.org/3/reference/expressions.html#calls
+	# https://docs.python.org/3/reference/expressions.html#calls
 
-#https://www.programiz.com/python-programming/list-comprehension
+	#https://www.programiz.com/python-programming/list-comprehension

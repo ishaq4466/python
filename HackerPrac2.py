@@ -69,7 +69,15 @@ def get_avg_marks(student_marks,query_name):
 	return avg_marks
 student_marks={"A":[45,5.6,85],"C":[45,5.6,85],"D":[4,56.4,85]}
 query_name="D"
-get_avg_marks(student_marks,query_name)
+# get_avg_marks(student_marks,query_name)
+
+
+
+
+
+
+
+
 
 
 

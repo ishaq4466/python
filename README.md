@@ -1,5 +1,13 @@
 # python notebook for my reference
 
+Table of Contents
+==================
+
+* [Use case of Dictionary](useCaseOfDictionary.py)
+
+
+
+
 ### Important funtions to remember:
 
 1. re.findall(r'\b[a-z]{3,15}\b', text_string) 
